@@ -20,7 +20,7 @@ public class ST10480829_PROG6112_Practice {
             {450, 280, 220, 390}
         };
         
-        // * ticketSales sales = new ticketSales();
+        ticketSales sales = new ticketSales();
         
         // -----------------------------------------------------
         // DISPLAY SALES TABLE
